@@ -6,7 +6,7 @@ $textbox-bordercolor: lightgray;
 $button-textcolor: white;
 $button-hovercolor: black;
 $add-button-color: #4caf50;
-$clear-butoon-color: #9f6060;
+$clear-button-color: #9f6060;
 
 @mixin mp($size) {
   @media only screen and (min-width: $size) {
