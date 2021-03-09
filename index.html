@@ -6,7 +6,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="sass/style.css" />
+  <link rel="stylesheet" href="./sass/style.css" />
+  <script src="./js/main.js" type="module"></script>
   <title>To Do List</title>
 </head>
 <body>
@@ -24,7 +25,7 @@
         <button id="clearItems" class="button" title="Clear the list" aria-label="Remove all items from the list" tabindex="0">Clear</button>
       </div>
       <hr />
-      <div class="listItems">
+      <div id="listItems">
         <div class="item">
           <input type="checkbox" id="1" tabindex="0" />
           <label for="1">eat</label>
