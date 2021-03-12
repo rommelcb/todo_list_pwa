@@ -2,7 +2,7 @@
 
 A basic Todo List application that lets you add todo items and make a list of todos. The application uses localStorage to persist the entered items in the list so that you can still retrieve them after closing and reopening the app.
 
-This project is part of my learning series on *"Progressive Web Applications"*. The project was based on a tutorial made by [Dave Gray](https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg) on [YouTube](https://www.youtube.com/).
+This project is part of my learning series on ***"Progressive Web Applications"***. The project was based on a tutorial made by [Dave Gray](https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg) on [YouTube](https://www.youtube.com/).
 
 The technologies used in this project are:
 - HTML5
